@@ -55,3 +55,14 @@ DevMedia - https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pra
 
 ### Autor
 **Vitor Marcato** https://www.linkedin.com/in/vitormarcato/
+
+
+### VitrineDev - Alura
+---
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/vitormarcato     |
+| -------------  | --- |
+| :sparkles: Nome        | Artigo: O seu código vai funcionar como o esperado?
+| :label: Tecnologias | java, JUnit, cleancode
+| :rocket: URL         | https://www.linkedin.com/pulse/o-seu-c%C3%B3digo-vai-funcionar-como-esperado-vitor-marcato/
+<!-- | :fire: Desafio     | https://url-do-desafio.com.br -->
+
