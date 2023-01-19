@@ -46,8 +46,12 @@ O fato é que desenvolvendo aplicações com TDD, os testes serão feitos de for
 
 ### Referências
 Rodrigo da Silva Ferreira Caneppele e Alura - https://www.alura.com.br/curso-online-tdd-java-testes-automatizados-junit
+
 Robert Martin - https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
+
 James Shore - http://www.jamesshore.com/v2/blog/2005/red-green-refactor
+
 DevMedia - https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533
 
-Feito por **Vitor Marcato** https://www.linkedin.com/in/vitormarcato/
+### Autor
+**Vitor Marcato** https://www.linkedin.com/in/vitormarcato/
